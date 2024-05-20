@@ -7,17 +7,17 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
 )](https://www.twitch.tv/adamizz_)
 
-## Sobre mim
+## Sobre mim 📝
 
 Atualmente curso Ciências da Computação na [UNIVALI](https://www.univali.br), e estou sempre bucando por mais conhecimento nessa área da tecnologia e programção.
 
 Estou interessado em aprender e trabalhar em novos projetos que me ajudarão a crescer como desenvolvedor.
 
-## Estatísticas
+## Estatísticas 📊 
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanadami&show_icons=true&theme=dark)
 
-## Tecnologias do meu conhecimento
+## Tecnologias do meu conhecimento 💻
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

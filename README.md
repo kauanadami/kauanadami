@@ -64,5 +64,10 @@ Estou interessado em aprender e trabalhar em novos projetos que me ajudarão a c
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanadami&theme=tokyonight&layout=compact&langs_count=9" 
   />
-
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauanadami/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauanadami/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauanadami/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>

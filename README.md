@@ -53,7 +53,7 @@ Estou interessado em aprender e trabalhar em novos projetos que me ajudarão a c
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="175" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=kauanadami&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
@@ -61,7 +61,7 @@ Estou interessado em aprender e trabalhar em novos projetos que me ajudarão a c
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanadami&theme=tokyonight&layout=compact&langs_count=9" 
   />
 </p>

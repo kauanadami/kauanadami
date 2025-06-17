@@ -14,22 +14,11 @@ Estou interessado em aprender e trabalhar em novos projetos que me ajudarão a c
 
 ## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="175" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kauanadami&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="175" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanadami&theme=tokyonight&layout=compact&langs_count=9" 
-  />
-</p>
+<div>
+  <a href="https://github.com/RafaelMotaAlvess/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanadami&theme=tokyonight&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanadami&layout=compact&theme=tokyonight">
+</div> 
 
 <br clear="both"/>
 
